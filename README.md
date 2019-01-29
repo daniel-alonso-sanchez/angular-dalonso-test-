@@ -23,12 +23,18 @@ compodoc -p ..\tsconfig.json -s
 
 # Improvements
 
+This is just a plain, basic example, so... lot of improvements can be included.
+
 * adding a css library (bootstrap, material, etc)
 * caching stuff for saving calls to backend
-* For the sake of a wider testing coverage, the project should contain more unit test (for the custom pipe, for example)
+* For the sake of a wider testing coverage, the project should contain more unit test (for the custom pipe, for example) and more e2e tests
 
 
 # Crud how-to
 
 In order to add crud capabilities, some new methods should be added to UserService, in order to cover Create, Update and Delete operations. 
 Also, it would be neccesary to add at least one input form, with validations, in order to capture data from the user.
+
+# Online demo
+
+https://angular-dalonso-test.stackblitz.io
