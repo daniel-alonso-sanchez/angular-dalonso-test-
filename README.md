@@ -8,7 +8,7 @@ The invocation to the web service is done through the users' service
 
 Instead of including documentation in this readme file, I took the liberty of using compodoc
 
-[compoc documentation](src/documentation/index.html)
+[compoc documentation](https://github.com/daniel-alonso-sanchez/angular-dalonso-test-/blob/master/src/documentation/index.html)
 ```
 npm install -g @compodoc/compodoc
 
