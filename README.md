@@ -35,6 +35,3 @@ This is just a plain, basic example, so... lot of improvements can be included.
 In order to add crud capabilities, some new methods should be added to UserService, in order to cover Create, Update and Delete operations. 
 Also, it would be neccesary to add at least one input form, with validations, in order to capture data from the user.
 
-# Online demo
-
-https://angular-dalonso-test.stackblitz.io
